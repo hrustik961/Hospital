@@ -1,6 +1,5 @@
 ﻿namespace Hospital
 {
-    // ВИПРАВЛЕНО: тепер назва класу строго InputForm, як і має бути!
     partial class InputForm
     {
         /// <summary>
