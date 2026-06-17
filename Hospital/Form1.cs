@@ -32,7 +32,7 @@ namespace Hospital
         {
             ReportsForm f = new ReportsForm();
             f.Show();
-            this.Hide(); // Сховуємо меню
+            this.Hide();
         }
     }
 }
